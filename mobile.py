@@ -1,4 +1,6 @@
-#Python 3.12.3 - used in this project
+# Python 3.12.3 - used in this project
+# Kivy                      2.3.0
+# kivymd                    1.2.0
 #--------------------------------------
 import kivy
 kivy.require('2.1.0')
